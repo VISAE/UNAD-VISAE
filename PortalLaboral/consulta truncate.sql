@@ -1,0 +1,7 @@
+TRUNCATE TABLE plab01hv;
+TRUNCATE TABLE plab02prof;
+TRUNCATE TABLE plab04cargo;
+TRUNCATE TABLE plab05industria;
+TRUNCATE TABLE plab06sector;
+TRUNCATE TABLE plab07nivingles;
+TRUNCATE TABLE plab16aspsala;

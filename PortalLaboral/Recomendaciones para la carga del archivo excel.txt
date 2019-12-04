@@ -1,0 +1,5 @@
+Recomendaciones para la carga del archivo excel - Portal Laboral
+1. Copiar sin encabezados una a una las columnas que se solicitan en la plantilla
+2. Pegar como valores
+3. Las fechas deben ser convertidas de texto a columnas y al formato dd/mm/AAAA
+4. reemplazar todo caracter coma (,) por punto (.)
